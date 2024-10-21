@@ -1,2 +1,2 @@
-*.bin	lib/firmware
+*.bin usr/lib/firmware
 topology usr/share/alsa
